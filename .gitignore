@@ -4,3 +4,6 @@
 /share/
 /lib64
 /pyvenv.cfg
+/mqmigrate.egg-info/
+*.pyc
+/src/__pycache__/
